@@ -1,2 +1,1 @@
-Hello, World!
-New feature
+Commit 1
